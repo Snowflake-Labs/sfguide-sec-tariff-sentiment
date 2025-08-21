@@ -1,3 +1,5 @@
+{{ build_badge() }}
+
 # Snowflake Public Data - SEC Tarrif Sentiment
 
 This demo was built to help showcase Snowflake's Public Data Products.
@@ -38,3 +40,5 @@ The included notebook will:
 - Select any reports that mention "Tarrif" in the report text
 - Pass the selected reports to Cortex (claude-4-sonnet) to be labeled.
 - Display graphs and explore different results such as different companies sentiment towards tarrifs.
+
+To run this notebook please find the TARIFF_SENTIMENT notebook inside the snowflake account you deployed to.
