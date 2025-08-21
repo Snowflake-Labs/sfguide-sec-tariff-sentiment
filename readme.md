@@ -32,6 +32,8 @@ History tables provide an auditable record of data changes over time.
 
 The SEC Tarrif Sentiment Demo downloads and utilizes the [SEC Filings](https://app.snowflake.com/marketplace/listing/GZTSZAS2KH9/snowflake-public-data-products-sec-filings?originTab=provider&providerName=Snowflake%20Public%20Data%20Products&profileGlobalName=GZTSZAS2KCS) dataset. 
 
+Please upload the SEC_Tarrif_Demo.ipynb notebook to your snowflake account and follow the instructions.
+
 The included notebook will:
 
 - Find all related 10-Q data for fiscal years 2024/2025
