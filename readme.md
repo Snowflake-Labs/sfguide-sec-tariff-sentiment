@@ -9,7 +9,7 @@ In order to help customers experience the full power of their own data, Snowflak
 
 The contents of these data sets cover a myriad of topics, from [US Real Estate](https://app.snowflake.com/marketplace/listing/GZTSZAS2KI6/snowflake-public-data-products-us-real-estate?originTab=provider&providerName=Snowflake%20Public%20Data%20Products&profileGlobalName=GZTSZAS2KCS) to information about Canada's GDP in the [Canadian Government Data](https://app.snowflake.com/marketplace/listing/GZTSZAS2KFB/snowflake-public-data-products-canadian-government?originTab=provider&providerName=Snowflake%20Public%20Data%20Products&profileGlobalName=GZTSZAS2KCS) listing.
 
-A full list of Snowflake's data products can be browsed [here](https://data-catalog.snowflake.com/) and any of these data sets can be downloaded to your account from the [Marketplace Listing](https://app.snowflake.com/marketplace/providers/GZTSZAS2KCS/Snowflake%20Public%20Data%20Products)
+A full list of Snowflake's data products can be browsed [here](https://data-catalog.snowflake.com/) and any of these data sets can be downloaded to your account from the [Marketplace Listing](https://app.snowflake.com/marketplace/listing/GZTSZ290BV255)
 
 
 ## Why Snowflake Public Data Products
@@ -30,7 +30,7 @@ History tables provide an auditable record of data changes over time.
 
 ## This Demo
 
-The SEC Tarrif Sentiment Demo downloads and utilizes the [SEC Filings](https://app.snowflake.com/marketplace/listing/GZTSZAS2KH9/snowflake-public-data-products-sec-filings?originTab=provider&providerName=Snowflake%20Public%20Data%20Products&profileGlobalName=GZTSZAS2KCS) dataset. 
+The SEC Tarrif Sentiment Demo downloads and utilizes the [SEC Filings](https://app.snowflake.com/marketplace/listing/GZTSZAS2KH9/snowflake-public-data-products-sec-filings) dataset. 
 
 Please upload the SEC_Tarrif_Demo.ipynb notebook to your snowflake account and follow the instructions.
 
